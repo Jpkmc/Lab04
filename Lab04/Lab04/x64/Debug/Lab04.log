@@ -1,0 +1,7 @@
+﻿  Function.cpp
+C:\Users\Jacob\source\repos\Lab04\Lab04\Function.cpp(63,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Jacob\source\repos\Lab04\Lab04\Function.cpp(66,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Jacob\source\repos\Lab04\Lab04\Function.cpp(69,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Jacob\source\repos\Lab04\Lab04\Function.cpp(102,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\source\repos\Lab04\Lab04\Function.cpp(109,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab04.vcxproj -> C:\Users\Jacob\source\repos\Lab04\x64\Debug\Lab04.exe
